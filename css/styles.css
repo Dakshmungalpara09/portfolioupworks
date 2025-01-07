@@ -3644,6 +3644,7 @@ img.u-pull-left {
 }
 
 .folio-list__item-pic {
+    padding: 10px;
     display  : block;
     position : absolute;
     top      : 0;
